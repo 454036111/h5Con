@@ -1,1 +1,20 @@
-"123"
+"{
+	"category": [{
+		"title": "\u9996\u9875",
+		"type": "index",
+		"apiurl": "",
+		"icon": "http://iapi.ipadown.com/resource/healthimages/home.png"
+	}, {
+		"title": "\u6536\u85cf",
+		"type": "fav",
+		"apiurl": "",
+		"icon": "http://iapi.ipadown.com/resource/healthimages/fav.png"
+	}, {
+		"title": "\u66f4\u591a",
+		"type": "more",
+		"apiurl": "",
+		"icon": "http://iapi.ipadown.com/resource/healthimages/more.png"
+	}],
+	"error_code": 0,
+	"error": ""
+}"
